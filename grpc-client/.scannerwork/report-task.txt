@@ -1,0 +1,6 @@
+projectKey=grpc-client
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=grpc-client
+ceTaskId=c8407524-08f9-497f-a372-d5a488bb55c5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c8407524-08f9-497f-a372-d5a488bb55c5
